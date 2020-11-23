@@ -1,1 +1,1 @@
-#### Building optimized classification model to predict kidney Disease.Optimizing the models and comapring the performances.Plotting the prediction performance against hyperparameter values to visualize the optimization performance.I use gridsearchcv to find optimized solutions.
+#### Building optimized classification model to predict kidney Disease.Optimizing the models and comapring the performances.Plotting the prediction performance against hyperparameter values to visualize the optimization performance.I use Randomized search cv to find optimized solutions.
